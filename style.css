@@ -41,3 +41,14 @@ input {
     background-color: transparent;
     padding: 10px;
 }
+
+button {
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: rgb(58, 58, 58);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40px;
+}
