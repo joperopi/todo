@@ -19,3 +19,21 @@
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: lightgray;
+    border-radius: 30px;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+
+input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding: 10px;
+}
